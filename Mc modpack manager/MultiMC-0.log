@@ -109,3 +109,17 @@
     7.907 D Processing repository version list.
    30.691 D [Analytics] "Query string = v=1&tid=UA-87731965-2&cid=95e91f0f-7123-49a0-ae15-b95ddff0f31a&t=screenview&ul=en-us&vp=694x563&sr=1360x768&aip=1&cd=Main Window&an=MultiMC5&av=0.6.2-1222&cd1=1.8.0_161&cd2=64&cd3=64&cd4=64&cd5=Windows&cd6=10.0&cm1=512&cm2=1024&cm3=8158&qt=28895"
    30.899 D [Analytics] "Message sent"
+   61.506 D Task "NetJob(Status JSON)" started
+   61.506 D Downloading  "http://status.mojang.com/check"
+   61.605 D Download succeeded: "http://status.mojang.com/check"
+   61.605 D Task "NetJob(Status JSON)" succeeded
+   61.605 D Finished loading status JSON.
+   61.606 D Status loading succeeded.
+   63.371 D Instance "Choose Your Adventure-" has been deleted by MultiMC.
+   77.115 D Instance "Choose Your Adventure-" has been invalidated.
+  121.502 D Task "NetJob(Status JSON)" started
+  121.502 D Downloading  "http://status.mojang.com/check"
+  121.609 D Download succeeded: "http://status.mojang.com/check"
+  121.609 D Task "NetJob(Status JSON)" succeeded
+  121.610 D Finished loading status JSON.
+  121.610 D Status loading succeeded.
