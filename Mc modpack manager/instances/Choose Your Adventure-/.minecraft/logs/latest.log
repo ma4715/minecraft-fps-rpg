@@ -1,0 +1,544 @@
+[19:28:08] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[19:28:08] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[19:28:08] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[19:28:08] [main/INFO] [FML]: Forge Mod Loader version 14.23.4.2705 for Minecraft 1.12.2 loading
+[19:28:08] [main/INFO] [FML]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_161, running on Windows 10:amd64:10.0, installed at C:\Program Files\Java\jre1.8.0_161
+[19:28:09] [main/INFO] [FML]: Searching E:\Modded Sync\instances\Choose Your Adventure-\.minecraft\mods for mods
+[19:28:09] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in [1.12]+VersionChecker-1.3.0.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[19:28:09] [main/WARN] [FML]: The coremod com.dynious.versionchecker.asm.LoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[19:28:09] [main/WARN] [FML]: The coremod LoadingPlugin (com.dynious.versionchecker.asm.LoadingPlugin) is not signed!
+[19:28:09] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from CubicChunks-1.12.2-0.0.852.0-SNAPSHOT-all_(FixOreHeightLangsCenter).jar
+[19:28:09] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Forgelin-1.7.4.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[19:28:09] [main/WARN] [FML]: The coremod net.shadowfacts.forgelin.preloader.ForgelinPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[19:28:09] [main/WARN] [FML]: The coremod ForgelinPlugin (net.shadowfacts.forgelin.preloader.ForgelinPlugin) is not signed!
+[19:28:09] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from malisiscore-1.12.2-6.4.0 (1).jar
+[19:28:09] [main/WARN] [FML]: The coremod micdoodle8.mods.miccore.MicdoodlePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[19:28:09] [main/WARN] [FML]: The coremod MicdoodlePlugin (micdoodle8.mods.miccore.MicdoodlePlugin) is not signed!
+[19:28:09] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Reskillable-1.12.2-1.6.0.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[19:28:09] [main/WARN] [FML]: The coremod codersafterdark.reskillable.base.asm.LoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[19:28:09] [main/WARN] [FML]: The coremod LoadingPlugin (codersafterdark.reskillable.base.asm.LoadingPlugin) is not signed!
+[19:28:09] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[19:28:09] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.launch.MixinTweaker
+[19:28:09] [main/INFO] [mixin]: SpongePowered MIXIN Subsystem Version=0.7.5 Source=file:/E:/Modded%20Sync/instances/Choose%20Your%20Adventure-/.minecraft/mods/CubicChunks-1.12.2-0.0.852.0-SNAPSHOT-all_(FixOreHeightLangsCenter).jar Service=LaunchWrapper Env=CLIENT
+[19:28:09] [main/WARN] [FML]: The coremod CubicChunksCoreMod (cubicchunks.asm.CubicChunksCoreMod) is not signed!
+[19:28:09] [main/INFO] [mixin]: Compatibility level set to JAVA_8
+[19:28:09] [main/INFO] [mixin]: Adding new token provider cubicchunks.asm.CubicChunksCoreMod$TokenProvider to MixinEnvironment[DEFAULT]
+[19:28:09] [main/WARN] [FML]: The coremod net.malisis.core.asm.MalisisCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[19:28:09] [main/WARN] [FML]: The coremod MalisisCorePlugin (net.malisis.core.asm.MalisisCorePlugin) is not signed!
+[19:28:09] [main/WARN] [LaunchWrapper]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[19:28:09] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[19:28:09] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[19:28:09] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[19:28:09] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[19:28:11] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[19:28:11] [main/INFO] [FML]: Found valid fingerprint for Minecraft. Certificate fingerprint cd99959656f753dc28d863b46769f7f8fbaefcfc
+[19:28:11] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[19:28:11] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[19:28:11] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[19:28:11] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[19:28:11] [main/INFO] [STDOUT]: [micdoodle8.mods.miccore.MicdoodlePlugin:getASMTransformerClass:99]: Successfully Registered Transformer
+[19:28:12] [main/INFO] [STDOUT]: [micdoodle8.mods.miccore.MicdoodlePlugin:injectData:292]: [Micdoodle8Core]: Patching game...
+[19:28:12] [main/INFO] [STDOUT]: [micdoodle8.mods.miccore.MicdoodlePlugin:injectData:292]: [Micdoodle8Core]: Patching game...
+[19:28:12] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[19:28:12] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.launch.MixinTweaker
+[19:28:12] [main/INFO] [mixin]: Initialised Mixin FML Remapper Adapter with net.minecraftforge.fml.common.asm.transformers.deobf.FMLDeobfuscatingRemapper@611d0763
+[19:28:12] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[19:28:13] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[19:28:13] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[19:28:13] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[19:28:13] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[19:28:13] [main/INFO] [EarlyCubicChunks]: No Optifine detected
+[19:28:13] [main/INFO] [CubicChunksMixinConfig]: Loading configuration file E:\Modded Sync\instances\Choose Your Adventure-\.minecraft\.\config\cubicchunks_mixin_config.json
+[19:28:14] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.client.main.Main}
+[19:28:15] [main/INFO] [net.minecraft.client.Minecraft]: Setting user: ma4715
+[19:28:20] [main/WARN] [net.minecraft.client.settings.GameSettings]: Skipping bad option: lastServer:
+[19:28:20] [main/INFO] [net.minecraft.client.Minecraft]: LWJGL Version: 2.9.4
+[19:28:22] [main/INFO] [FML]: -- System Details --
+Details:
+	Minecraft Version: 1.12.2
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 1.8.0_161, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 1183859744 bytes (1129 MB) / 1425539072 bytes (1359 MB) up to 2863661056 bytes (2731 MB)
+	JVM Flags: 3 total; -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xms512m -Xmx3072m
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: 
+	Loaded coremods (and transformers): 
+CubicChunksCoreMod (CubicChunks-1.12.2-0.0.852.0-SNAPSHOT-all_(FixOreHeightLangsCenter).jar)
+  
+MicdoodlePlugin (MicdoodleCore-1.12.2-4.0.1.181.jar)
+  micdoodle8.mods.miccore.MicdoodleTransformer
+ForgelinPlugin (Forgelin-1.7.4.jar)
+  
+MalisisCorePlugin (malisiscore-1.12.2-6.4.0 (1).jar)
+  
+LoadingPlugin ([1.12]+VersionChecker-1.3.0.jar)
+  
+LoadingPlugin (Reskillable-1.12.2-1.6.0.jar)
+  codersafterdark.reskillable.base.asm.ClassTransformer
+	GL info: ' Vendor: 'NVIDIA Corporation' Version: '4.6.0 NVIDIA 388.13' Renderer: 'GeForce GTX 960/PCIe/SSE2'
+[19:28:22] [main/INFO] [FML]: MinecraftForge v14.23.4.2705 Initialized
+[19:28:22] [main/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[19:28:22] [main/INFO] [FML]: Replaced 1036 ore ingredients
+[19:28:22] [main/INFO] [FML]: Searching E:\Modded Sync\instances\Choose Your Adventure-\.minecraft\mods for mods
+[19:28:24] [main/WARN] [FML]: Mod codechickenlib is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 3.2.0.345
+[19:28:24] [Thread-3/INFO] [FML]: Using sync timing. 200 frames of Display.update took 93510508 nanos
+[19:28:25] [main/WARN] [FML]: Mod ironchest is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.12.2-7.0.44.829
+[19:28:26] [main/WARN] [FML]: Mod tcinventoryscan is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 2.0.10
+[19:28:26] [main/INFO] [FML]: Forge Mod Loader has identified 53 mods to load
+[19:28:26] [main/WARN] [FML]: Mod cubicchunkscore has been disabled through configuration
+[19:28:28] [main/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, micdoodlecore, versionchecker, abyssalcraft, baubles, bcoreprocessing, bookshelf, buildcraftbuilders, buildcraftcore, buildcraftenergy, buildcraftfactory, buildcraftlib, buildcraftrobotics, buildcraftsilicon, buildcrafttransport, codechickenlib, cofhcore, cofhworld, ctgui, crafttweaker, crafttweakerjei, cubicchunks, dimdoors, forestry, forgelin, ftblib, ftbutilities, galacticraftplanets, galacticraftcore, gamestages, ironchest, irontanks, malisiscore, norecipebook, orestages, redstoneflux, refinedstorage, refinedstorageaddons, reskillable, thaumcraft, tcinventoryscan, thermalcultivation, thermaldynamics, thermalexpansion, thermalfoundation, thermalinnovation, trzlib, unidict, wanionlib] at CLIENT
+[19:28:28] [main/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, micdoodlecore, versionchecker, abyssalcraft, baubles, bcoreprocessing, bookshelf, buildcraftbuilders, buildcraftcore, buildcraftenergy, buildcraftfactory, buildcraftlib, buildcraftrobotics, buildcraftsilicon, buildcrafttransport, codechickenlib, cofhcore, cofhworld, ctgui, crafttweaker, crafttweakerjei, cubicchunks, dimdoors, forestry, forgelin, ftblib, ftbutilities, galacticraftplanets, galacticraftcore, gamestages, ironchest, irontanks, malisiscore, norecipebook, orestages, redstoneflux, refinedstorage, refinedstorageaddons, reskillable, thaumcraft, tcinventoryscan, thermalcultivation, thermaldynamics, thermalexpansion, thermalfoundation, thermalinnovation, trzlib, unidict, wanionlib] at SERVER
+[19:28:35] [main/INFO] [net.minecraft.client.resources.SimpleReloadableResourceManager]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Version Checker, FMLFileResourcePack:AbyssalCraft, FMLFileResourcePack:Baubles, FMLFileResourcePack:BC Ore Processing, FMLFileResourcePack:Bookshelf, FMLFileResourcePack:BC Builders, FMLFileResourcePack:BuildCraft, FMLFileResourcePack:BC Energy, FMLFileResourcePack:BC Factory, FMLFileResourcePack:BuildCraft Lib, FMLFileResourcePack:BC Robotics, FMLFileResourcePack:BC Silicon, FMLFileResourcePack:BC Transport, FMLFileResourcePack:CodeChicken Lib, FMLFileResourcePack:CoFH Core, FMLFileResourcePack:CoFH World, FMLFileResourcePack:CT-GUI, FMLFileResourcePack:CraftTweaker2, FMLFileResourcePack:CraftTweaker JEI Support, FMLFileResourcePack:CubicChunks, FMLFileResourcePack:Dimensional Doors, FMLFileResourcePack:Forestry, FMLFileResourcePack:Shadowfacts' Forgelin, FMLFileResourcePack:FTBLib, FMLFileResourcePack:FTB Utilities, FMLFileResourcePack:Galacticraft Planets, FMLFileResourcePack:Galacticraft Core, FMLFileResourcePack:Game Stages, FMLFileResourcePack:Iron Chest, FMLFileResourcePack:Iron Tank, FMLFileResourcePack:MalisisCore, FMLFileResourcePack:No Recipe Book, FMLFileResourcePack:Ore Stages, FMLFileResourcePack:Redstone Flux, FMLFileResourcePack:Refined Storage, FMLFileResourcePack:Refined Storage Addons, FMLFileResourcePack:Reskillable, FMLFileResourcePack:Thaumcraft, FMLFileResourcePack:Thaumcrafft Inventory Scanning, FMLFileResourcePack:Thermal Cultivation, FMLFileResourcePack:Thermal Dynamics, FMLFileResourcePack:Thermal Expansion, FMLFileResourcePack:Thermal Foundation, FMLFileResourcePack:Thermal Innovation, FMLFileResourcePack:TRZLib, FMLFileResourcePack:UniDict, FMLFileResourcePack:WanionLib
+[19:28:35] [main/INFO] [FML]: Processing ObjectHolder annotations
+[19:28:35] [main/INFO] [FML]: Found 1282 ObjectHolder annotations
+[19:28:35] [main/INFO] [FML]: Identifying ItemStackHolder annotations
+[19:28:35] [main/INFO] [FML]: Found 2 ItemStackHolder annotations
+[19:28:35] [main/INFO] [FML]: Configured a dormant chunk cache size of 0
+[19:28:35] [Forge Version Check/INFO] [forge.VersionCheck]: [buildcraftcore] Starting version check at https://mod-buildcraft.com/version/versions.json
+[19:28:36] [Forge Version Check/INFO] [forge.VersionCheck]: [buildcraftcore] Found status: AHEAD Target: null
+[19:28:36] [Forge Version Check/INFO] [forge.VersionCheck]: [thermalcultivation] Starting version check at https://raw.github.com/cofh/version/master/thermalcultivation_update.json
+[19:28:36] [Forge Version Check/INFO] [forge.VersionCheck]: [thermalcultivation] Found status: UP_TO_DATE Target: null
+[19:28:36] [Forge Version Check/INFO] [forge.VersionCheck]: [thermalinnovation] Starting version check at https://raw.github.com/cofh/version/master/thermalinnovation_update.json
+[19:28:36] [Forge Version Check/INFO] [forge.VersionCheck]: [thermalinnovation] Found status: UP_TO_DATE Target: null
+[19:28:36] [Forge Version Check/INFO] [forge.VersionCheck]: [buildcraftlib] Starting version check at https://mod-buildcraft.com/version/versions.json
+[19:28:37] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tileentitycrate`, expected `abyssalcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[19:28:37] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tileentitydghead`, expected `abyssalcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[19:28:37] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tileentityphead`, expected `abyssalcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[19:28:37] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tileentitywhead`, expected `abyssalcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[19:28:37] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tileentityohead`, expected `abyssalcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[19:28:37] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tileentitycrystallizer`, expected `abyssalcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[19:28:37] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tileentitytransmutator`, expected `abyssalcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[19:28:37] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tileentitydradguardspawner`, expected `abyssalcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[19:28:37] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tileentitychagarothspawner`, expected `abyssalcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[19:28:37] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tileentityengraver`, expected `abyssalcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[19:28:37] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tileentitymaterializer`, expected `abyssalcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[19:28:37] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tileentityritualaltar`, expected `abyssalcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[19:28:37] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tileentityritualpedestal`, expected `abyssalcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[19:28:37] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tileentitystatue`, expected `abyssalcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[19:28:37] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tileentitydecorativestatue`, expected `abyssalcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[19:28:37] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tileentityshoggothbiomass`, expected `abyssalcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[19:28:37] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tileentityenergypedestal`, expected `abyssalcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[19:28:37] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tileentitysacrificialaltar`, expected `abyssalcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[19:28:37] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tileentitytieredenergypedestal`, expected `abyssalcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[19:28:37] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tileentitytieredsacrificialaltar`, expected `abyssalcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[19:28:37] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tileentityjzaharspawner`, expected `abyssalcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[19:28:37] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tileentitygatekeeperminionspawner`, expected `abyssalcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[19:28:37] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tileentityenergycollector`, expected `abyssalcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[19:28:37] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tileentityenergyrelay`, expected `abyssalcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[19:28:37] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tileentityenergycontainer`, expected `abyssalcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[19:28:37] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tileentitytieredenergycollector`, expected `abyssalcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[19:28:37] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tileentitytieredenergyrelay`, expected `abyssalcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[19:28:37] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tileentitytieredenergycontainer`, expected `abyssalcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[19:28:37] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tileentityrendingpedestal`, expected `abyssalcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[19:28:37] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tileentitystatetransformer`, expected `abyssalcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[19:28:37] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tileentityenergydepositioner`, expected `abyssalcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[19:28:37] [Forge Version Check/INFO] [forge.VersionCheck]: [buildcraftlib] Found status: AHEAD Target: null
+[19:28:37] [Forge Version Check/INFO] [forge.VersionCheck]: [cofhcore] Starting version check at https://raw.github.com/cofh/version/master/cofhcore_update.json
+[19:28:37] [Forge Version Check/INFO] [forge.VersionCheck]: [cofhcore] Found status: UP_TO_DATE Target: null
+[19:28:37] [Forge Version Check/INFO] [forge.VersionCheck]: [abyssalcraft] Starting version check at https://raw.githubusercontent.com/Shinoow/AbyssalCraft/master/version.json
+[19:28:37] [main/WARN] [mixin]: Method overwrite conflict for cubicWorld in cubicchunks.mixins.core.json:client.MixinWorldProvider, previously written by cubicchunks.asm.mixin.core.common.MixinWorldProvider. Skipping method.
+[19:28:37] [Forge Version Check/INFO] [forge.VersionCheck]: [thermaldynamics] Starting version check at https://raw.github.com/cofh/version/master/thermaldynamics_update.json
+[19:28:37] [Forge Version Check/INFO] [forge.VersionCheck]: [thermaldynamics] Found status: UP_TO_DATE Target: null
+[19:28:37] [Forge Version Check/INFO] [forge.VersionCheck]: [codechickenlib] Starting version check at http://chickenbones.net/Files/notification/version.php?query=forge&version=1.12&file=CodeChickenLib
+[19:28:37] [Forge Version Check/INFO] [forge.VersionCheck]: [codechickenlib] Found status: BETA Target: null
+[19:28:37] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[19:28:37] [main/INFO] [AbyssalCraft]: Starting the Integration Handler.
+[19:28:37] [main/INFO] [FML]: OBJLoader: Domain abyssalcraft has been added.
+[19:28:37] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: UP_TO_DATE Target: null
+[19:28:37] [Forge Version Check/INFO] [forge.VersionCheck]: [cofhworld] Starting version check at https://raw.github.com/cofh/version/master/cofhworld_update.json
+[19:28:38] [Forge Version Check/INFO] [forge.VersionCheck]: [cofhworld] Found status: UP_TO_DATE Target: null
+[19:28:38] [Forge Version Check/INFO] [forge.VersionCheck]: [refinedstorage] Starting version check at https://refinedstorage.raoulvdberge.com/update
+[19:28:38] [main/INFO] [BuildCraft]: 
+[19:28:38] [main/INFO] [BuildCraft]: Starting BuildCraft 7.99.17
+[19:28:38] [main/INFO] [BuildCraft]: Copyright (c) the BuildCraft team, 2011-2018
+[19:28:38] [main/INFO] [BuildCraft]: https://www.mod-buildcraft.com
+[19:28:38] [main/INFO] [BuildCraft]: Detailed Build Information:
+[19:28:38] [main/INFO] [BuildCraft]:   Branch 8.0.x
+[19:28:38] [main/INFO] [BuildCraft]:   Commit c6b869f6a345784a1b2c5afb79e0dd733798b150
+[19:28:38] [main/INFO] [BuildCraft]:     Bump version for 7.99.17 release
+[19:28:38] [main/INFO] [BuildCraft]:     committed by AlexIIL
+[19:28:38] [main/INFO] [BuildCraft]: 
+[19:28:38] [main/INFO] [BuildCraft]: Loaded Modules:
+[19:28:38] [main/INFO] [BuildCraft]:   - lib
+[19:28:38] [main/INFO] [BuildCraft]:   - core
+[19:28:38] [main/INFO] [BuildCraft]:   - builders
+[19:28:38] [main/INFO] [BuildCraft]:   - energy
+[19:28:38] [main/INFO] [BuildCraft]:   - factory
+[19:28:38] [main/INFO] [BuildCraft]:   - robotics
+[19:28:38] [main/INFO] [BuildCraft]:   - silicon
+[19:28:38] [main/INFO] [BuildCraft]:   - transport
+[19:28:38] [main/INFO] [BuildCraft]: Missing Modules:
+[19:28:38] [main/INFO] [BuildCraft]:   - compat
+[19:28:38] [main/INFO] [BuildCraft]: 
+[19:28:39] [Forge Version Check/INFO] [forge.VersionCheck]: [refinedstorage] Found status: UP_TO_DATE Target: null
+[19:28:39] [Forge Version Check/INFO] [forge.VersionCheck]: [thermalfoundation] Starting version check at https://raw.github.com/cofh/version/master/thermalfoundation_update.json
+[19:28:39] [Forge Version Check/INFO] [forge.VersionCheck]: [thermalfoundation] Found status: UP_TO_DATE Target: null
+[19:28:39] [Forge Version Check/INFO] [forge.VersionCheck]: [thermalexpansion] Starting version check at https://raw.github.com/cofh/version/master/thermalexpansion_update.json
+[19:28:39] [main/INFO] [BuildCraft]: [debugger] Method found: World.getTileEntity = public net.minecraft.tileentity.TileEntity net.minecraft.world.World.getTileEntity(net.minecraft.util.math.BlockPos)
+[19:28:39] [main/INFO] [BuildCraft]: [debugger] Debugging not automatically enabled for all of buildcraft. Logging all possible debug options.
+[19:28:39] [main/INFO] [BuildCraft]:               To enable it for only logging messages add "-Dbuildcraft.debug=log" to your launch VM arguments
+[19:28:39] [main/INFO] [BuildCraft]:               To enable it for ALL debugging "-Dbuildcraft.debug=all" to your launch VM arguments
+[19:28:39] [main/INFO] [BuildCraft]:               To remove this message and all future ones add "-Dbuildcraft.debug=disable" to your launch VM arguments
+[19:28:39] [main/INFO] [BuildCraft]: [debugger] To enable debugging for lib.messages add the option "-Dbuildcraft.lib.messages.debug=true" to your launch config as a VM argument (LOG).
+[19:28:39] [Forge Version Check/INFO] [forge.VersionCheck]: [thermalexpansion] Found status: UP_TO_DATE Target: null
+[19:28:39] [main/INFO] [BuildCraft]: [debugger] To enable debugging for lib.sprite.holder add the option "-Dbuildcraft.lib.sprite.holder.debug=true" to your launch config as a VM argument (LOG).
+[19:28:39] [main/INFO] [BuildCraft]: [debugger] To enable debugging for lib.migrate add the option "-Dbuildcraft.lib.migrate.debug=true" to your launch config as a VM argument (LOG).
+[19:28:39] [main/INFO] [BuildCraft]: [debugger] To enable debugging for lib.net.cache add the option "-Dbuildcraft.lib.net.cache.debug=true" to your launch config as a VM argument (LOG).
+[19:28:39] [main/INFO] [BuildCraft]: [debugger] To enable debugging for lib.net.cache add the option "-Dbuildcraft.lib.net.cache.debug=true" to your launch config as a VM argument (COMPLEX).
+[19:28:39] [main/INFO] [FML]: Configured a dormant chunk cache size of 0
+[19:28:39] [main/INFO] [BuildCraft]: [debugger] To enable debugging for lib.registry add the option "-Dbuildcraft.lib.registry.debug=true" to your launch config as a VM argument (LOG).
+[19:28:39] [main/INFO] [BuildCraft]: [debugger] To enable debugging for lib.model.holder add the option "-Dbuildcraft.lib.model.holder.debug=true" to your launch config as a VM argument (LOG).
+[19:28:39] [main/INFO] [BuildCraft]: [debugger] To enable debugging for lib.tile add the option "-Dbuildcraft.lib.tile.debug=true" to your launch config as a VM argument (LOG).
+[19:28:39] [main/INFO] [BuildCraft]: [debugger] To enable debugging for lib.id_alloc add the option "-Dbuildcraft.lib.id_alloc.debug=true" to your launch config as a VM argument (LOG).
+[19:28:40] [main/INFO] [BuildCraft]: [debugger] To enable debugging for silicon.facade add the option "-Dbuildcraft.silicon.facade.debug=true" to your launch config as a VM argument (LOG).
+[19:28:41] [main/INFO] [cofhworld]: Registering default Feature Templates...
+[19:28:41] [main/INFO] [cofhworld]: Registering default World Generators...
+[19:28:41] [main/INFO] [cofhworld]: Verifying or creating base world generation directory...
+[19:28:41] [main/INFO] [cofhworld]: Complete.
+[19:28:41] [main/INFO] [malisiscore]: Registering CloseInventoryMessage for Packet with discriminator 1 in channel malisiscore
+[19:28:41] [main/INFO] [malisiscore]: Registering InventoryActionMessage for Packet with discriminator 2 in channel malisiscore
+[19:28:41] [main/INFO] [malisiscore]: Registering OpenInventoryMessage for Packet with discriminator 3 in channel malisiscore
+[19:28:41] [main/INFO] [malisiscore]: Registering UpdateInventorySlotsMessage for Packet with discriminator 4 in channel malisiscore
+[19:28:41] [main/INFO] [malisiscore]: Registering DirectMessage for Packet with discriminator 5 in channel malisiscore
+[19:28:41] [main/INFO] [malisiscore]: Registering BlockDataMessage for Packet with discriminator 6 in channel malisiscore
+[19:28:41] [main/INFO] [malisiscore]: Registering ChunkBlockMessage for Packet with discriminator 7 in channel malisiscore
+[19:28:41] [main/INFO] [malisiscore]: Registering NeighborChangedMessage for Packet with discriminator 8 in channel malisiscore
+[19:28:41] [main/INFO] [malisiscore]: Registering SyncerMessage for Packet with discriminator 9 in channel malisiscore
+[19:28:42] [main/INFO] [forestry]: Module Mystical Agriculture Module failed to load: Mystical Agriculture not found
+[19:28:42] [main/INFO] [forestry]: Module Roots Module failed to load: Roots not found
+[19:28:42] [main/INFO] [forestry]: Module BiomesOPlenty Module failed to load: BiomesOPlenty not found
+[19:28:42] [main/INFO] [forestry]: Module HarvestCraft Module failed to load: HarvestCraft not found
+[19:28:42] [main/INFO] [forestry]: Module rustic Module failed to load: Rustic not found
+[19:28:42] [main/INFO] [forestry]: Module Extra Utilities Module failed to load: Extra Utilities not found
+[19:28:42] [main/INFO] [forestry]: Module IndustrialCraft2 Module failed to load: IndustrialCraft2 not found
+[19:28:42] [main/INFO] [forestry]: Module Natura Module failed to load: Natura not found
+[19:28:42] [main/INFO] [forestry]: Module Better With Mods Module failed to load: Better With Mods not found
+[19:28:42] [main/INFO] [forestry]: Module EnderIO Module failed to load: EnderIO not found
+[19:28:42] [main/INFO] [forestry]: Module Actually Additions Module failed to load: Actually Additions not found
+[19:28:42] [main/INFO] [forestry]: Module TechReborn Module failed to load: TechReborn not found
+[19:28:42] [main/INFO] [forestry]: Module ImmersiveEngineering Module failed to load: ImmersiveEngineering not found
+[19:28:44] [main/INFO] [FTBLib]: Loading FTBLib, DevEnv:false
+[19:28:44] [main/WARN] [FTBLib]: Replacing com.feed_the_beast.ftblib.lib.config.DefaultRankConfigHandler with com.feed_the_beast.ftbutilities.ranks.FTBUtilitiesPermissionHandler
+[19:28:44] [main/WARN] [FML]: Replacing net.minecraftforge.server.permission.DefaultPermissionHandler with com.feed_the_beast.ftbutilities.ranks.FTBUtilitiesPermissionHandler
+[19:28:45] [main/INFO] [Galacticraft]: Galacticraft oil is not default, issues may occur.
+[19:28:47] [main/INFO] [gamestages]: Reloading fakeplayers stage data from gameStagesFakePlayerData.json.
+[19:28:48] [main/INFO] [FML]: OBJLoader: Domain thaumcraft has been added.
+[19:28:50] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.iron`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[19:28:50] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.gold`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[19:28:50] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.diamond`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[19:28:50] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.copper`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[19:28:50] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.silver`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[19:28:50] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.crystal`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[19:28:50] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.obsidian`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[19:28:50] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.dirtchest9000`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[19:28:50] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.iron`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[19:28:50] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.gold`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[19:28:50] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.diamond`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[19:28:50] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.copper`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[19:28:50] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.silver`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[19:28:50] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.crystal`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[19:28:50] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.obsidian`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[19:28:51] [main/INFO] [FML]: Applying holder lookups
+[19:28:51] [main/INFO] [FML]: Holder lookups applied
+[19:28:51] [main/INFO] [FML]: Applying holder lookups
+[19:28:51] [main/INFO] [FML]: Holder lookups applied
+[19:28:51] [main/INFO] [FML]: Applying holder lookups
+[19:28:51] [main/INFO] [FML]: Holder lookups applied
+[19:28:51] [main/INFO] [FML]: Applying holder lookups
+[19:28:51] [main/INFO] [FML]: Holder lookups applied
+[19:28:51] [main/INFO] [FML]: Injecting itemstacks
+[19:28:51] [main/INFO] [FML]: Itemstack injection complete
+[19:28:53] [main/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: thaumcraft:runicshieldcharge
+[19:28:53] [Sound Library Loader/INFO] [net.minecraft.client.audio.SoundManager]: Starting up SoundSystem...
+[19:28:53] [Thread-7/INFO] [net.minecraft.client.audio.SoundManager]: Initializing LWJGL OpenAL
+[19:28:53] [Thread-7/INFO] [net.minecraft.client.audio.SoundManager]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[19:28:53] [Thread-7/INFO] [net.minecraft.client.audio.SoundManager]: OpenAL initialized.
+[19:28:53] [Sound Library Loader/INFO] [net.minecraft.client.audio.SoundManager]: Sound engine started
+[19:29:00] [main/INFO] [FML]: OBJLoader.MaterialLibrary: key '' (model: 'thaumcraft:models/block/arcane_workbench_charger.mtl') is not currently supported, skipping
+[19:29:00] [main/INFO] [FML]: OBJLoader.MaterialLibrary: key '' (model: 'thaumcraft:models/block/pillar.mtl') is not currently supported, skipping
+[19:29:00] [main/INFO] [FML]: OBJLoader.MaterialLibrary: key '' (model: 'thaumcraft:models/block/thaumatorium.mtl') is not currently supported, skipping
+[19:29:01] [main/INFO] [FML]: OBJLoader.MaterialLibrary: key '' (model: 'thaumcraft:models/block/golembuilder.mtl') is not currently supported, skipping
+[19:29:01] [main/INFO] [FML]: OBJLoader.MaterialLibrary: key '' (model: 'thaumcraft:models/item/scanner.mtl') is not currently supported, skipping
+[19:29:02] [main/INFO] [FML]: Max texture size: 16384
+[19:29:11] [main/INFO] [net.minecraft.client.renderer.texture.TextureMap]: Created: 4096x2048 textures-atlas
+[19:29:19] [main/INFO] [BuildCraft]: [debugger] To enable debugging for lib.locale add the option "-Dbuildcraft.lib.locale.debug=true" to your launch config as a VM argument (LOG).
+[19:29:22] [main/INFO] [THAUMCRAFT]: Checking for mod & oredict compatibilities
+[19:29:22] [main/INFO] [THAUMCRAFT]: Adding entities to MFR safari net blacklist.
+[19:29:22] [main/INFO] [FML]: Applying holder lookups
+[19:29:22] [main/INFO] [FML]: Holder lookups applied
+[19:29:24] [main/INFO] [BuildCraft]: [debugger] To enable debugging for api.painting add the option "-Dbuildcraft.api.painting.debug=true" to your launch config as a VM argument (LOG).
+[19:29:24] [main/INFO] [BuildCraft]: [debugger] To enable debugging for api.rotation add the option "-Dbuildcraft.api.rotation.debug=true" to your launch config as a VM argument (LOG).
+[19:29:24] [main/INFO] [BuildCraft]: [debugger] To enable debugging for lib.markers add the option "-Dbuildcraft.lib.markers.debug=true" to your launch config as a VM argument (LOG).
+[19:29:25] [main/INFO] [dimdoors]: Loaded 156 templates in 532 ms.
+[19:29:25] [main/INFO] [forestry]: Created: 256x128 textures-atlas
+[19:29:26] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `forestry.cocoon`, expected `forestry`. This could be a intended override, but in most cases indicates a broken mod.
+[19:29:26] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc treasure chest`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[19:29:26] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc air distributor`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[19:29:26] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc air collector`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[19:29:26] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc oxygen pipe`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[19:29:26] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc air lock frame`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[19:29:26] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc refinery`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[19:29:26] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc nasa workbench`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[19:29:26] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc deconstructor`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[19:29:26] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc air compressor`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[19:29:26] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc fuel loader`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[19:29:26] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc landing pad`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[19:29:26] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc landing pad full`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[19:29:26] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc space station`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[19:29:26] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc dummy block`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[19:29:26] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc air sealer`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[19:29:26] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc dungeon boss spawner`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[19:29:26] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc oxygen detector`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[19:29:26] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc buggy fueler`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[19:29:26] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc buggy fueler single`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[19:29:26] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc cargo loader`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[19:29:26] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc cargo unloader`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[19:29:26] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc parachest tile`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[19:29:26] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc solar panel`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[19:29:26] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc radio telescope`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[19:29:26] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc magnetic crafting table`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[19:29:26] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc energy storage module`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[19:29:26] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc coal generator`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[19:29:26] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc electric furnace`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[19:29:26] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc aluminum wire`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[19:29:26] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc switchable aluminum wire`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[19:29:26] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc fallen meteor`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[19:29:26] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc ingot compressor`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[19:29:26] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc electric ingot compressor`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[19:29:26] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc circuit fabricator`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[19:29:26] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc air lock controller`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[19:29:26] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc oxygen storage module`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[19:29:26] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc oxygen decompressor`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[19:29:26] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc space station thruster`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[19:29:26] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc arc lamp`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[19:29:26] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc view screen`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[19:29:26] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc panel lighting`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[19:29:26] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc telemetry unit`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[19:29:26] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc painter`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[19:29:26] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc fluid tank`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[19:29:26] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc player detector`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[19:29:26] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc platform`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[19:29:26] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc emergency post`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[19:29:26] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc null tile`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[19:29:27] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc slimeling egg`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[19:29:27] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc tier 2 treasure chest`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[19:29:27] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc planet terraformer`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[19:29:27] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc cryogenic chamber`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[19:29:27] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc gas liquefier`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[19:29:27] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc methane synthesizer`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[19:29:27] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc water electrolyzer`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[19:29:27] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc mars dungeon spawner`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[19:29:27] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc launch controller`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[19:29:27] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc beam reflector`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[19:29:27] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc beam receiver`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[19:29:27] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc short range telepad`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[19:29:27] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc fake short range telepad`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[19:29:27] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc astro miner base builder`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[19:29:27] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc astro miner base`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[19:29:27] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc venus spout`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[19:29:27] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc venus dungeon spawner`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[19:29:27] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc tier 3 treasure chest`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[19:29:27] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc geothermal generator`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[19:29:27] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc crashed probe`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[19:29:27] [main/INFO] [FML]: Injecting itemstacks
+[19:29:27] [main/INFO] [FML]: Itemstack injection complete
+[19:29:27] [main/INFO] [BuildCraft]: [debugger] To enable debugging for lib.guide.loader add the option "-Dbuildcraft.lib.guide.loader.debug=true" to your launch config as a VM argument (LOG).
+[19:29:27] [main/INFO] [BuildCraft]: [debugger] To enable debugging for lib.markdown add the option "-Dbuildcraft.lib.markdown.debug=true" to your launch config as a VM argument (LOG).
+[19:29:27] [main/WARN] [BuildCraft]: [lib.guide] Unknown source '(buildcrafttransport:plug_gate)'
+[19:29:27] [main/WARN] [BuildCraft]: [lib.guide] Unknown source '(buildcrafttransport:plug_pulsar)'
+[19:29:27] [main/WARN] [BuildCraft]: [lib.guide] Unknown source '(buildcrafttransport:plug_light_sensor)'
+[19:29:27] [main/WARN] [BuildCraft]: [lib.guide] Unknown source '(buildcrafttransport:plug_lens)'
+[19:29:27] [main/WARN] [BuildCraft]: [lib.guide.loader.markdown] buildcrafttransport:plug_lens was not a valid item!
+[19:29:27] [main/WARN] [BuildCraft]: [lib.guide] Unknown source '{buildcrafttransport:plug_lens,1,16}'
+[19:29:27] [main/WARN] [BuildCraft]: [lib.guide.loader.markdown] buildcrafttransport:plug_facade was not a valid item!
+[19:29:27] [main/WARN] [BuildCraft]: [lib.guide] Unknown source '{buildcrafttransport:plug_facade,1,0,{preview:1b}}'
+[19:29:27] [main/WARN] [BuildCraft]: [lib.guide] Unknown source '(buildcraftsilicon:charging_table)'
+[19:29:27] [main/WARN] [BuildCraft]: [lib.guide] Unknown source '(buildcraftsilicon:programming_table)'
+[19:29:27] [main/WARN] [BuildCraft]: [lib.guide.loader] Unable to load guide page 'buildcrafttransport:compat/buildcraft/guide/en_us/pipe/wood_item.md' because we couldn't find it in any resource pack!
+[19:29:27] [main/WARN] [BuildCraft]: [lib.guide.loader] Unable to load guide page 'buildcrafttransport:compat/buildcraft/guide/en_us/pipe/cobblestone_item.md' because we couldn't find it in any resource pack!
+[19:29:27] [main/WARN] [BuildCraft]: [lib.guide.loader] Unable to load guide page 'buildcrafttransport:compat/buildcraft/guide/en_us/pipe/Stone_item.md' because we couldn't find it in any resource pack!
+[19:29:27] [main/WARN] [BuildCraft]: [lib.guide.loader] Unable to load guide page 'buildcrafttransport:compat/buildcraft/guide/en_us/pipe/quartz_item.md' because we couldn't find it in any resource pack!
+[19:29:27] [main/WARN] [BuildCraft]: [lib.guide.loader] Unable to load guide page 'buildcrafttransport:compat/buildcraft/guide/en_us/pipe/iron_item.md' because we couldn't find it in any resource pack!
+[19:29:27] [main/WARN] [BuildCraft]: [lib.guide.loader] Unable to load guide page 'buildcrafttransport:compat/buildcraft/guide/en_us/pipe/gold_item.md' because we couldn't find it in any resource pack!
+[19:29:27] [main/WARN] [BuildCraft]: [lib.guide.loader] Unable to load guide page 'buildcrafttransport:compat/buildcraft/guide/en_us/pipe/clay_item.md' because we couldn't find it in any resource pack!
+[19:29:27] [main/WARN] [BuildCraft]: [lib.guide.loader] Unable to load guide page 'buildcrafttransport:compat/buildcraft/guide/en_us/pipe/sandstone_item.md' because we couldn't find it in any resource pack!
+[19:29:27] [main/WARN] [BuildCraft]: [lib.guide.loader] Unable to load guide page 'buildcrafttransport:compat/buildcraft/guide/en_us/pipe/diamond_item.md' because we couldn't find it in any resource pack!
+[19:29:27] [main/WARN] [BuildCraft]: [lib.guide.loader] Unable to load guide page 'buildcrafttransport:compat/buildcraft/guide/en_us/pipe/void_item.md' because we couldn't find it in any resource pack!
+[19:29:27] [main/WARN] [BuildCraft]: [lib.guide.loader] Unable to load guide page 'buildcrafttransport:compat/buildcraft/guide/en_us/pipe/obsidian_item.md' because we couldn't find it in any resource pack!
+[19:29:27] [main/WARN] [BuildCraft]: [lib.guide.loader] Unable to load guide page 'buildcrafttransport:compat/buildcraft/guide/en_us/pipe/diamond_wood_item.md' because we couldn't find it in any resource pack!
+[19:29:27] [main/WARN] [BuildCraft]: [lib.guide.loader] Unable to load guide page 'buildcrafttransport:compat/buildcraft/guide/en_us/pipe/lapis_item.md' because we couldn't find it in any resource pack!
+[19:29:27] [main/WARN] [BuildCraft]: [lib.guide.loader] Unable to load guide page 'buildcrafttransport:compat/buildcraft/guide/en_us/pipe/daizuli_item.md' because we couldn't find it in any resource pack!
+[19:29:27] [main/WARN] [BuildCraft]: [lib.guide.loader] Unable to load guide page 'buildcrafttransport:compat/buildcraft/guide/en_us/pipe/emzuli_item.md' because we couldn't find it in any resource pack!
+[19:29:27] [main/WARN] [BuildCraft]: [lib.guide.loader] Unable to load guide page 'buildcrafttransport:compat/buildcraft/guide/en_us/pipe/stripes_item.md' because we couldn't find it in any resource pack!
+[19:29:27] [main/WARN] [BuildCraft]: [lib.guide.loader] Unable to load guide page 'buildcrafttransport:compat/buildcraft/guide/en_us/pipe/wood_fluid.md' because we couldn't find it in any resource pack!
+[19:29:27] [main/WARN] [BuildCraft]: [lib.guide.loader] Unable to load guide page 'buildcrafttransport:compat/buildcraft/guide/en_us/pipe/cobblestone_fluid.md' because we couldn't find it in any resource pack!
+[19:29:27] [main/WARN] [BuildCraft]: [lib.guide.loader] Unable to load guide page 'buildcrafttransport:compat/buildcraft/guide/en_us/pipe/Stone_fluid.md' because we couldn't find it in any resource pack!
+[19:29:27] [main/WARN] [BuildCraft]: [lib.guide.loader] Unable to load guide page 'buildcrafttransport:compat/buildcraft/guide/en_us/pipe/quartz_fluid.md' because we couldn't find it in any resource pack!
+[19:29:27] [main/WARN] [BuildCraft]: [lib.guide.loader] Unable to load guide page 'buildcrafttransport:compat/buildcraft/guide/en_us/pipe/iron_fluid.md' because we couldn't find it in any resource pack!
+[19:29:27] [main/WARN] [BuildCraft]: [lib.guide.loader] Unable to load guide page 'buildcrafttransport:compat/buildcraft/guide/en_us/pipe/gold_fluid.md' because we couldn't find it in any resource pack!
+[19:29:27] [main/WARN] [BuildCraft]: [lib.guide.loader] Unable to load guide page 'buildcrafttransport:compat/buildcraft/guide/en_us/pipe/clay_fluid.md' because we couldn't find it in any resource pack!
+[19:29:27] [main/WARN] [BuildCraft]: [lib.guide.loader] Unable to load guide page 'buildcrafttransport:compat/buildcraft/guide/en_us/pipe/sandstone_fluid.md' because we couldn't find it in any resource pack!
+[19:29:27] [main/WARN] [BuildCraft]: [lib.guide.loader] Unable to load guide page 'buildcrafttransport:compat/buildcraft/guide/en_us/pipe/diamond_fluid.md' because we couldn't find it in any resource pack!
+[19:29:27] [main/WARN] [BuildCraft]: [lib.guide.loader] Unable to load guide page 'buildcrafttransport:compat/buildcraft/guide/en_us/pipe/void_fluid.md' because we couldn't find it in any resource pack!
+[19:29:27] [main/WARN] [BuildCraft]: [lib.guide.loader] Unable to load guide page 'buildcrafttransport:compat/buildcraft/guide/en_us/pipe/diamond_wood_fluid.md' because we couldn't find it in any resource pack!
+[19:29:27] [main/WARN] [BuildCraft]: [lib.guide.loader] Unable to load guide page 'buildcrafttransport:compat/buildcraft/guide/en_us/pipe/wood_power.md' because we couldn't find it in any resource pack!
+[19:29:27] [main/WARN] [BuildCraft]: [lib.guide.loader] Unable to load guide page 'buildcrafttransport:compat/buildcraft/guide/en_us/pipe/cobblestone_power.md' because we couldn't find it in any resource pack!
+[19:29:27] [main/WARN] [BuildCraft]: [lib.guide.loader] Unable to load guide page 'buildcrafttransport:compat/buildcraft/guide/en_us/pipe/stone_power.md' because we couldn't find it in any resource pack!
+[19:29:27] [main/WARN] [BuildCraft]: [lib.guide.loader] Unable to load guide page 'buildcrafttransport:compat/buildcraft/guide/en_us/pipe/quartz_power.md' because we couldn't find it in any resource pack!
+[19:29:27] [main/WARN] [BuildCraft]: [lib.guide.loader] Unable to load guide page 'buildcrafttransport:compat/buildcraft/guide/en_us/pipe/gold_power.md' because we couldn't find it in any resource pack!
+[19:29:27] [main/WARN] [BuildCraft]: [lib.guide.loader] Unable to load guide page 'buildcrafttransport:compat/buildcraft/guide/en_us/pipe/sandstone_power.md' because we couldn't find it in any resource pack!
+[19:29:27] [main/WARN] [BuildCraft]: [lib.guide.loader] Unable to load guide page 'buildcrafttransport:compat/buildcraft/guide/en_us/pipe/plug_blocker.md' because we couldn't find it in any resource pack!
+[19:29:27] [main/WARN] [BuildCraft]: [lib.guide.loader] Unable to load guide page 'buildcrafttransport:compat/buildcraft/guide/en_us/pipe/pipe_wire.md' because we couldn't find it in any resource pack!
+[19:29:27] [main/WARN] [BuildCraft]: [lib.guide.markdown] Found deprecated element '$[special.all_crafting](buildcraftlib:guide)', it should be replaced with '<recipes_usages stack="buildcraftlib:guide"/>'
+[19:29:27] [main/WARN] [BuildCraft]: [lib.guide.markdown] Found deprecated element '$[special.new_page]', it should be replaced with '<new_page/>'
+[19:29:27] [main/WARN] [BuildCraft]: [lib.guide.loader] Unable to load guide page 'buildcraftsilicon:compat/buildcraft/guide/en_us/block/laser.md' because we couldn't find it in any resource pack!
+[19:29:27] [main/WARN] [BuildCraft]: [lib.guide.loader] Unable to load guide page 'buildcraftsilicon:compat/buildcraft/guide/en_us/block/assembly.md' because we couldn't find it in any resource pack!
+[19:29:27] [main/WARN] [BuildCraft]: [lib.guide.loader] Unable to load guide page 'buildcraftsilicon:compat/buildcraft/guide/en_us/block/integration.md' because we couldn't find it in any resource pack!
+[19:29:27] [main/WARN] [BuildCraft]: [lib.guide.loader] Unable to load guide page 'buildcraftsilicon:compat/buildcraft/guide/en_us/block/advanced_crafting.md' because we couldn't find it in any resource pack!
+[19:29:27] [main/WARN] [BuildCraft]: [lib.guide.loader] Unable to load guide page 'buildcraftcore:compat/buildcraft/guide/en_us/item/paintbrush.md' because we couldn't find it in any resource pack!
+[19:29:28] [main/INFO] [BuildCraft]: [lib.guide] Loaded 65 possible and 25 actual guide pages (40 not found) in 377ms.
+[19:29:28] [main/WARN] [BuildCraft]: [lib.gui.cfg] Failed to read the config file! E:\Modded Sync\instances\Choose Your Adventure-\.minecraft\config\buildcraft\gui.json
+[19:29:28] [main/WARN] [cubicchunks]: Biome minecraft:hell not registered as cubic chunks biome, will use default unregistered biome instead
+[19:29:28] [main/WARN] [cubicchunks]: Biome minecraft:sky not registered as cubic chunks biome, will use default unregistered biome instead
+[19:29:28] [main/WARN] [cubicchunks]: Biome buildcraftenergy:oil_ocean not registered as cubic chunks biome, will use default unregistered biome instead
+[19:29:28] [main/WARN] [cubicchunks]: Biome buildcraftenergy:oil_desert not registered as cubic chunks biome, will use default unregistered biome instead
+[19:29:28] [main/WARN] [cubicchunks]: Biome galacticraftcore:outer space not registered as cubic chunks biome, will use default unregistered biome instead
+[19:29:28] [main/WARN] [cubicchunks]: Biome galacticraftplanets:outer space 1 not registered as cubic chunks biome, will use default unregistered biome instead
+[19:29:28] [main/WARN] [cubicchunks]: Biome galacticraftplanets:outer space 2 not registered as cubic chunks biome, will use default unregistered biome instead
+[19:29:28] [main/WARN] [cubicchunks]: Biome thaumcraft:magical_forest not registered as cubic chunks biome, will use default unregistered biome instead
+[19:29:28] [main/WARN] [cubicchunks]: Biome thaumcraft:eerie not registered as cubic chunks biome, will use default unregistered biome instead
+[19:29:28] [main/WARN] [cubicchunks]: Biome thaumcraft:eldritch not registered as cubic chunks biome, will use default unregistered biome instead
+[19:29:28] [main/WARN] [cubicchunks]: Biome abyssalcraft:darklands not registered as cubic chunks biome, will use default unregistered biome instead
+[19:29:28] [main/WARN] [cubicchunks]: Biome abyssalcraft:darklands_forest not registered as cubic chunks biome, will use default unregistered biome instead
+[19:29:28] [main/WARN] [cubicchunks]: Biome abyssalcraft:darklands_plains not registered as cubic chunks biome, will use default unregistered biome instead
+[19:29:28] [main/WARN] [cubicchunks]: Biome abyssalcraft:darklands_hills not registered as cubic chunks biome, will use default unregistered biome instead
+[19:29:28] [main/WARN] [cubicchunks]: Biome abyssalcraft:darklands_mountains not registered as cubic chunks biome, will use default unregistered biome instead
+[19:29:28] [main/WARN] [cubicchunks]: Biome abyssalcraft:coralium_infested_swamp not registered as cubic chunks biome, will use default unregistered biome instead
+[19:29:28] [main/WARN] [cubicchunks]: Biome abyssalcraft:abyssal_wastelands not registered as cubic chunks biome, will use default unregistered biome instead
+[19:29:28] [main/WARN] [cubicchunks]: Biome abyssalcraft:dreadlands not registered as cubic chunks biome, will use default unregistered biome instead
+[19:29:28] [main/WARN] [cubicchunks]: Biome abyssalcraft:purified_dreadlands not registered as cubic chunks biome, will use default unregistered biome instead
+[19:29:28] [main/WARN] [cubicchunks]: Biome abyssalcraft:dreadlands_forest not registered as cubic chunks biome, will use default unregistered biome instead
+[19:29:28] [main/WARN] [cubicchunks]: Biome abyssalcraft:dreadlands_mountains not registered as cubic chunks biome, will use default unregistered biome instead
+[19:29:28] [main/WARN] [cubicchunks]: Biome abyssalcraft:omothol not registered as cubic chunks biome, will use default unregistered biome instead
+[19:29:28] [main/WARN] [cubicchunks]: Biome abyssalcraft:dark_realm not registered as cubic chunks biome, will use default unregistered biome instead
+[19:29:28] [main/WARN] [cubicchunks]: Biome abyssalcraft:purged not registered as cubic chunks biome, will use default unregistered biome instead
+[19:29:28] [main/WARN] [cubicchunks]: Biome dimdoors:limbo not registered as cubic chunks biome, will use default unregistered biome instead
+[19:29:28] [main/WARN] [cubicchunks]: Biome dimdoors:white_void not registered as cubic chunks biome, will use default unregistered biome instead
+[19:29:28] [main/WARN] [cubicchunks]: Biome dimdoors:black_void not registered as cubic chunks biome, will use default unregistered biome instead
+[19:29:28] [main/WARN] [cubicchunks]: Biome dimdoors:dangerous_black_void not registered as cubic chunks biome, will use default unregistered biome instead
+[19:29:28] [main/WARN] [cubicchunks]: Biome minecraft:void not registered as cubic chunks biome, will use default unregistered biome instead
+[19:29:28] [main/INFO] [Galacticraft]: Galacticraft: activating ThermalExpansion compatibility features.
+[19:29:28] [main/INFO] [Galacticraft]: Galacticraft: activating BuildCraft Transport (Pipes) compatibility features.
+[19:29:30] [main/ERROR] [FML]: Parsing error loading built-in advancement buildcraftcore:goggles
+com.google.gson.JsonSyntaxException: Expected item to be an item, was unknown string 'buildcraftcore:goggles'
+	at net.minecraft.util.JsonUtils.func_188172_b(SourceFile:124) ~[rc.class:?]
+	at net.minecraft.util.JsonUtils.func_188180_i(SourceFile:135) ~[rc.class:?]
+	at net.minecraft.advancements.DisplayInfo.func_193221_a(DisplayInfo.java:133) ~[r.class:?]
+	at net.minecraft.advancements.DisplayInfo.func_192294_a(DisplayInfo.java:111) ~[r.class:?]
+	at net.minecraft.advancements.Advancement$Builder.func_192059_a(SourceFile:202) ~[i$a.class:?]
+	at net.minecraft.advancements.AdvancementManager$1.deserialize(AdvancementManager.java:50) ~[ns$1.class:?]
+	at net.minecraft.advancements.AdvancementManager$1.deserialize(AdvancementManager.java:46) ~[ns$1.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[TreeTypeAdapter.class:?]
+	at net.minecraft.util.JsonUtils.func_188173_a(SourceFile:492) ~[rc.class:?]
+	at net.minecraft.util.JsonUtils.func_193839_a(SourceFile:532) ~[rc.class:?]
+	at net.minecraftforge.common.ForgeHooks.lambda$loadAdvancements$0(ForgeHooks.java:1357) ~[ForgeHooks.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.findFiles(CraftingHelper.java:821) [CraftingHelper.class:?]
+	at net.minecraftforge.common.ForgeHooks.loadAdvancements(ForgeHooks.java:1339) [ForgeHooks.class:?]
+	at net.minecraftforge.common.ForgeHooks.loadAdvancements(ForgeHooks.java:1313) [ForgeHooks.class:?]
+	at net.minecraft.advancements.AdvancementManager.func_192779_a(AdvancementManager.java:69) [ns.class:?]
+	at net.minecraft.advancements.AdvancementManager.<init>(AdvancementManager.java:60) [ns.class:?]
+	at codersafterdark.reskillable.client.base.ClientProxy.postInit(ClientProxy.java:33) [ClientProxy.class:?]
+	at codersafterdark.reskillable.Reskillable.postInit(Reskillable.java:49) [Reskillable.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_161]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_161]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_161]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_161]
+	at net.minecraftforge.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:627) [FMLModContainer.class:?]
+	at sun.reflect.GeneratedMethodAccessor2.invoke(Unknown Source) ~[?:?]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_161]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_161]
+	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76) [guava-21.0.jar:?]
+	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116) [guava-21.0.jar:?]
+	at com.google.common.eventbus.EventBus.post(EventBus.java:217) [guava-21.0.jar:?]
+	at net.minecraftforge.fml.common.LoadController.sendEventToModContainer(LoadController.java:218) [LoadController.class:?]
+	at net.minecraftforge.fml.common.LoadController.propogateStateMessage(LoadController.java:196) [LoadController.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_161]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_161]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_161]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_161]
+	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76) [guava-21.0.jar:?]
+	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71) [guava-21.0.jar:?]
+	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116) [guava-21.0.jar:?]
+	at com.google.common.eventbus.EventBus.post(EventBus.java:217) [guava-21.0.jar:?]
+	at net.minecraftforge.fml.common.LoadController.distributeStateMessage(LoadController.java:135) [LoadController.class:?]
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:749) [Loader.class:?]
+	at net.minecraftforge.fml.client.FMLClientHandler.finishMinecraftLoading(FMLClientHandler.java:329) [FMLClientHandler.class:?]
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:534) [bib.class:?]
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:377) [bib.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:123) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_161]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_161]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_161]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_161]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_161]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_161]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_161]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_161]
+	at org.multimc.onesix.OneSixLauncher.launchWithMainClass(OneSixLauncher.java:196) [NewLaunch.jar:?]
+	at org.multimc.onesix.OneSixLauncher.launch(OneSixLauncher.java:231) [NewLaunch.jar:?]
+	at org.multimc.EntryPoint.listen(EntryPoint.java:143) [NewLaunch.jar:?]
+	at org.multimc.EntryPoint.main(EntryPoint.java:34) [NewLaunch.jar:?]
+[19:29:30] [main/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 571 advancements
+[19:29:30] [main/INFO] [THAUMCRAFT]: Loaded 22 research entries from thaumcraft:research/alchemy
+[19:29:30] [main/INFO] [THAUMCRAFT]: Loaded 1 research entries from thaumcraft:research/eldritch
+[19:29:30] [main/INFO] [THAUMCRAFT]: Loaded 17 research entries from thaumcraft:research/basics
+[19:29:30] [main/INFO] [THAUMCRAFT]: Loaded 23 research entries from thaumcraft:research/auromancy
+[19:29:30] [main/INFO] [THAUMCRAFT]: Loaded 12 research entries from thaumcraft:research/scans
+[19:29:30] [main/INFO] [THAUMCRAFT]: Loaded 20 research entries from thaumcraft:research/artifice
+[19:29:30] [main/INFO] [THAUMCRAFT]: Loaded 17 research entries from thaumcraft:research/infusion
+[19:29:30] [main/INFO] [THAUMCRAFT]: Loaded 29 research entries from thaumcraft:research/golemancy
+[19:29:31] [main/INFO] [thermalexpansion]: Thermal Expansion: Forestry Plugin Enabled.
+[19:29:31] [main/INFO] [thermalexpansion]: Thermal Expansion: AbyssalCraft Plugin Enabled.
+[19:29:31] [main/INFO] [thermalexpansion]: Thermal Expansion: Thaumcraft Plugin Enabled.
+[19:29:31] [main/INFO] [wanionlib]: UniDict: Initializing Module: Integration, Side: Client
+[19:29:31] [main/INFO] [wanionlib]: Crafting Integration: Why so many recipes? I had to deal with 140 recipes.
+[19:29:31] [main/INFO] [wanionlib]: Furnace Integration: Some things that you smelted appear to be different now.
+[19:29:31] [main/INFO] [wanionlib]: AbyssalCraft Integration: TransMules Fixes!
+[19:29:31] [main/INFO] [wanionlib]: Forestry Integration: All these bees... they can hurt, you know?
+[19:29:31] [main/INFO] [wanionlib]: Thermal Expansion Integration: The world seems to be more thermally involved.
+[19:29:31] [main/INFO] [wanionlib]: UniDict: All 5 Integrations took 47ms to finish. at load stage PostInit
+[19:29:31] [main/INFO] [cofhcore]: CoFH Core: Load Complete.
+[19:29:31] [main/INFO] [cofhworld]: Accumulating world generation files from: "E:\Modded Sync\instances\Choose Your Adventure-\.minecraft\config\cofh\world"
+[19:29:31] [main/INFO] [cofhworld]: Found 4 World Generation files and 0 folders present in "cofh\world".
+[19:29:31] [main/INFO] [cofhworld]: Reading world generation info from: "cofh\world\01_thermalfoundation_ores.json":
+[19:29:31] [main/INFO] [cofhworld]: Reading world generation info from: "cofh\world\02_thermalfoundation_oil.json":
+[19:29:31] [main/INFO] [cofhworld]: Reading world generation info from: "cofh\world\03_thermalfoundation_clathrates.json":
+[19:29:31] [main/INFO] [cofhworld]: CoFH World: Load Complete.
+[19:29:31] [main/INFO] [Ore Stages]: Starting model replacement for 0 blocks.
+[19:29:31] [main/INFO] [Ore Stages]: There are no block replacements. Has the mod been configured?
+[19:29:31] [main/INFO] [Ore Stages]: Model replacement finished. Took 0ms
+[19:29:31] [main/INFO] [thermalfoundation]: [Whitelist] Reading established Whitelist from file.
+[19:29:31] [main/INFO] [thermalfoundation]: Thermal Foundation: Load Complete.
+[19:29:31] [main/INFO] [thermalexpansion]: Thermal Expansion: Load Complete.
+[19:29:31] [main/INFO] [thermalcultivation]: Thermal Cultivation: Load Complete.
+[19:29:31] [main/INFO] [thermaldynamics]: Thermal Dynamics: Load Complete.
+[19:29:31] [main/INFO] [thermalinnovation]: Thermal Innovation: Load Complete.
+[19:29:33] [main/INFO] [FML]: Forge Mod Loader has successfully loaded 53 mods
+[19:29:33] [main/WARN] [net.minecraft.client.settings.GameSettings]: Skipping bad option: lastServer:
+[19:29:33] [main/INFO] [com.mojang.text2speech.NarratorWindows]: Narrator library for x64 successfully loaded
+[19:29:33] [Forestry Greenhouse Client/INFO] [forestry]: Starting greenhouse thread
+[19:31:19] [main/INFO] [net.minecraft.world.storage.SaveFormatOld]: Deleting level New World
+[19:31:19] [main/INFO] [net.minecraft.world.storage.SaveFormatOld]: Attempt 1...
+[20:24:36] [main/INFO] [net.minecraft.client.Minecraft]: Stopping!
+[20:24:36] [main/INFO] [net.minecraft.client.audio.SoundManager]: SoundSystem shutting down...
+[20:24:36] [main/WARN] [net.minecraft.client.audio.SoundManager]: Author: Paul Lamb, www.paulscode.com

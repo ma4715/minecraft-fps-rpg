@@ -1,0 +1,22 @@
+{
+    "accounts": [
+        {
+            "accessToken": "41e1ae9d2eaf40ea8cea5f45cc6c2beb",
+            "activeProfile": "c12a071d742249f3b9129c4f8c94da70",
+            "clientToken": "b4873aeb5aac43d6b9142171375900a4",
+            "profiles": [
+                {
+                    "id": "c12a071d742249f3b9129c4f8c94da70",
+                    "legacy": false,
+                    "name": "ma4715"
+                }
+            ],
+            "user": {
+                "id": "637979a625344273bc487868b40632c9"
+            },
+            "username": "christamoreno10@ymail.com"
+        }
+    ],
+    "activeAccount": "christamoreno10@ymail.com",
+    "formatVersion": 2
+}

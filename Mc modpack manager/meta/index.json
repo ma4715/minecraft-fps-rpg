@@ -1,0 +1,30 @@
+{
+    "formatVersion": 1,
+    "packages": [
+        {
+            "name": "LiteLoader",
+            "sha256": "7e3ca972a2898dc311b827c8b73d8b5274807395bdd199b61a236d83a64dc2f7",
+            "uid": "com.mumfrey.liteloader"
+        },
+        {
+            "name": "LWJGL 3",
+            "sha256": "19efadc37aba7e670a1f0a3fd0bbd721206a87cd128be90ee9167cac600feab2",
+            "uid": "org.lwjgl3"
+        },
+        {
+            "name": "Forge",
+            "sha256": "44b4c664a2243929922542cf30241bafd25346fd57a0c9f6f1ee7f637a380a80",
+            "uid": "net.minecraftforge"
+        },
+        {
+            "name": "Minecraft",
+            "sha256": "d2bca7d7cc72572f88ea69c61395e8c5c7ed771411816f25ec07a3fde1b3691b",
+            "uid": "net.minecraft"
+        },
+        {
+            "name": "LWJGL 2",
+            "sha256": "1e121b36baa689bcff5e58e6b9bd85d179d4be38e53f087c016abd0bd0af3bb4",
+            "uid": "org.lwjgl"
+        }
+    ]
+}

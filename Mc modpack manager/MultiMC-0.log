@@ -1,0 +1,111 @@
+    0.232 D <> Log initialized.
+    0.232 D MultiMC 5, (c) 2013-2018 MultiMC Contributors
+    0.233 D Version                    :  "0.6.2-1222"
+    0.233 D Git commit                 :  "6284f070c19053ae2bcf26dd9bccac2e0d35477f"
+    0.233 D Git refspec                :  "refs/heads/stable"
+    0.233 D Work dir before adjustment :  "E:/Imagination/Imagination/minecraft-fps-rpg/Mc modpack manager"
+    0.233 D Work dir after adjustment  :  "E:/Imagination/Imagination/minecraft-fps-rpg/Mc modpack manager"
+    0.233 D Adjusted by                :  "Fallback to binary path E:/Imagination/Imagination/minecraft-fps-rpg/Mc modpack manager"
+    0.234 D Binary path                :  "E:/Imagination/Imagination/minecraft-fps-rpg/Mc modpack manager"
+    0.234 D Application root path      :  "E:/Imagination/Imagination/minecraft-fps-rpg/Mc modpack manager"
+    0.235 D <> Paths set.
+    0.290 D Detected default console font: "Courier" , substitutions: ""
+    0.293 D <> Settings loaded.
+    0.343 D Your language is "en"
+    0.343 D <> Translations loaded.
+    0.344 D <> Updater started.
+    0.347 D Started watching  "E:/Imagination/Imagination/minecraft-fps-rpg/Mc modpack manager/icons"
+    0.418 D <> Instance icons intialized.
+    0.476 D <> Icon themes initialized.
+    0.476 D ""
+    0.476 D Loading theme "custom"
+    0.516 D <> Widget themes initialized.
+    0.516 D Instance path              :  "instances"
+    0.516 D Loading Instances...
+    0.538 D Found instance ID "Choose Your Adventure-"
+    0.563 D Loaded instance  "Choose Your Adventure-"  from  "E:/Imagination/Imagination/minecraft-fps-rpg/Mc modpack manager/instances/Choose Your Adventure-"
+    0.563 D <> Instances loaded.
+    0.564 D Loading accounts...
+    0.565 D <> Accounts loaded.
+    0.585 D <> Cache initialized.
+    0.585 D Detecting proxy settings...
+    0.643 D Using no proxy is an option!
+    0.643 D <> Proxy settings done.
+    0.643 D Downloading Translations Index...
+    0.644 D Task "NetJob(Translations Index)" started
+    0.660 D <> Icon theme set.
+    0.660 D <> Application theme set.
+    0.699 D <> Initialized analytics with tid "UA-87731965-2"
+    1.493 W QMetaObject::connectSlotsByName: No matching signal for on_actionInstanceSettings_triggered()
+    1.512 D Task "NetJob(Status JSON)" started
+    1.603 D Task "NetJob(Startup player skins download)" started
+    1.604 D Reloading news.
+    1.604 D Task "NetJob(News RSS Feed)" started
+    1.604 D Checking for updates.
+    1.604 D Channel list isn't loaded yet. Loading channel list and deferring update check.
+    1.604 D Loading the channel list.
+    1.604 D Task "NetJob(Update System Channel List)" started
+    1.604 D Task "NetJob(Checking for notifications)" started
+    1.796 D Viewport size "694x563"
+    1.796 D RAM size is 8158 MB
+    1.796 D [Analytics] "ScreenView: Main Window"
+    1.796 D <> Main window shown.
+    1.797 D Task "NetJob(Translations Index)" succeeded
+    1.797 D Got translations index!
+    1.797 D Download cache hit  "http://files.multimc.org/translations/index"
+    1.799 D Downloading  "http://status.mojang.com/check"
+    3.297 D Downloading  "https://crafatar.com/skins/c12a071d742249f3b9129c4f8c94da70.png"
+    3.298 D Downloading  "http://multimc.org/rss.xml"
+    3.298 D Downloading  "http://files.multimc.org/update/win32/channels.json"
+    3.301 D Downloading  "http://files.multimc.org/notifications.json"
+    7.319 W QIODevice::write (QTcpSocket): device not open
+    7.426 D Download succeeded: "http://status.mojang.com/check"
+    7.426 D Task "NetJob(Status JSON)" succeeded
+    7.426 D Finished loading status JSON.
+    7.426 D Status loading succeeded.
+    7.475 D Location header: QUrl("https://multimc.org/rss.xml")
+    7.475 D Following redirect to  "https://multimc.org/rss.xml"
+    7.475 D Downloading  "https://multimc.org/rss.xml"
+    7.475 D Download redirected: "https://multimc.org/rss.xml"
+    7.658 D Download succeeded: "http://files.multimc.org/update/win32/channels.json"
+    7.658 D Task "NetJob(Update System Channel List)" succeeded
+    7.658 D Successfully loaded UpdateChecker channel list.
+    7.659 D Checking for updates.
+    7.659 D m_repoUrl =  "http://files.multimc.org/update/win32/stable/"
+    7.659 D Task "NetJob(GoUpdate Repository Index)" started
+    7.694 D Download succeeded: "https://crafatar.com/skins/c12a071d742249f3b9129c4f8c94da70.png"
+    7.694 D Task "NetJob(Startup player skins download)" succeeded
+    7.695 D Download succeeded: "http://files.multimc.org/notifications.json"
+    7.777 D Task "NetJob(Checking for notifications)" succeeded
+    7.777 D Downloading  "http://files.multimc.org/update/win32/stable/index.json"
+    7.894 D Download succeeded: "https://multimc.org/rss.xml"
+    7.894 D Task "NetJob(News RSS Feed)" succeeded
+    7.894 D Finished loading RSS feed.
+    7.897 D Loaded news entry "MultiMC 0.6.2 released!"
+    7.897 D Loaded news entry "MultiMC 0.6.1 released!"
+    7.897 D Loaded news entry "MultiMC 0.6.0 released!"
+    7.897 D Loaded news entry "Introducing the Archive"
+    7.897 D Loaded news entry "MultiMC 0.5.1 - Bugfixes"
+    7.897 D Loaded news entry "MultiMC 0.5.0 - Running multiple instances at the same time!"
+    7.897 D Loaded news entry "Update to 0.4.11 - OSX 10.7 fix and workaround for Minecraft 1.9 compatibility"
+    7.899 D Loaded news entry "Update to 0.4.10 - Another wifi fix"
+    7.899 D Loaded news entry "Update to 0.4.9 - the Windows wifi fix"
+    7.899 D Loaded news entry "Update to 0.4.8"
+    7.899 D Loaded news entry "Update to 0.4.7, what 0.4.6 should have been."
+    7.899 D Loaded news entry "Update to 0.4.6, Bug fixes and improvements!"
+    7.899 D Loaded news entry "Update to 0.4.5, Translations, Themes, and Technic"
+    7.899 D Loaded news entry "Version 0.4 out - Jar mods, UI changes, and more!"
+    7.899 D Loaded news entry "Introducing QuickMods - A better way to install mods"
+    7.899 D Loaded news entry "Support us on Patreon!"
+    7.899 D Loaded news entry "Heartbleed Vulnerability Update (fixed!)"
+    7.899 D Loaded news entry "Announcing MultiMC 6"
+    7.899 D Loaded news entry "MultiMC 5 - 0.3 update"
+    7.899 D Loaded news entry "First official MultiMC 5 release!"
+    7.901 D Loaded news entry "MultiMC Status Update"
+    7.901 D News loading succeeded.
+    7.907 D Download succeeded: "http://files.multimc.org/update/win32/stable/index.json"
+    7.907 D Task "NetJob(GoUpdate Repository Index)" succeeded
+    7.907 D Finished downloading repo index. Checking for new versions.
+    7.907 D Processing repository version list.
+   30.691 D [Analytics] "Query string = v=1&tid=UA-87731965-2&cid=95e91f0f-7123-49a0-ae15-b95ddff0f31a&t=screenview&ul=en-us&vp=694x563&sr=1360x768&aip=1&cd=Main Window&an=MultiMC5&av=0.6.2-1222&cd1=1.8.0_161&cd2=64&cd3=64&cd4=64&cd5=Windows&cd6=10.0&cm1=512&cm2=1024&cm3=8158&qt=28895"
+   30.899 D [Analytics] "Message sent"
